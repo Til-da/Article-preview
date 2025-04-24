@@ -16,7 +16,7 @@ body{
 
 .article{
     box-shadow: 0px 40px 40px -10px rgba(201, 213, 225, 0.50);
-    margin: 13rem auto;
+    margin: 15rem auto;
     display: flex;
     align-items: center;
     width: 730px;
